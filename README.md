@@ -1,2 +1,2 @@
 # Google Homepage Clone
-Clone of the google search engine
+Clone of google search engine
